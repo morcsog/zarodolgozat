@@ -1,1 +1,0 @@
-Asztali alkalmazáss könyvtára
