@@ -1,0 +1,38 @@
+C:\Users\morcs\Desktop\Mappák\Tábla\TáblaAsztali\Tabla\Tabla\bin\Debug\Tabla.exe.config
+C:\Users\morcs\Desktop\Mappák\Tábla\TáblaAsztali\Tabla\Tabla\bin\Debug\Tabla.exe
+C:\Users\morcs\Desktop\Mappák\Tábla\TáblaAsztali\Tabla\Tabla\bin\Debug\Tabla.pdb
+C:\Users\morcs\Desktop\Mappák\Tábla\TáblaAsztali\Tabla\Tabla\bin\Debug\MySql.Data.dll
+C:\Users\morcs\Desktop\Mappák\Tábla\TáblaAsztali\Tabla\Tabla\bin\Debug\MySql.Data.xml
+C:\Users\morcs\Desktop\Mappák\Tábla\TáblaAsztali\Tabla\Tabla\obj\Debug\Tabla.csprojAssemblyReference.cache
+C:\Users\morcs\Desktop\Mappák\Tábla\TáblaAsztali\Tabla\Tabla\obj\Debug\Tabla.Properties.Resources.resources
+C:\Users\morcs\Desktop\Mappák\Tábla\TáblaAsztali\Tabla\Tabla\obj\Debug\Tabla.csproj.GenerateResource.cache
+C:\Users\morcs\Desktop\Mappák\Tábla\TáblaAsztali\Tabla\Tabla\obj\Debug\Tabla.csproj.CoreCompileInputs.cache
+C:\Users\morcs\Desktop\Mappák\Tábla\TáblaAsztali\Tabla\Tabla\obj\Debug\Tabla.csproj.CopyComplete
+C:\Users\morcs\Desktop\Mappák\Tábla\TáblaAsztali\Tabla\Tabla\obj\Debug\Tabla.exe
+C:\Users\morcs\Desktop\Mappák\Tábla\TáblaAsztali\Tabla\Tabla\obj\Debug\Tabla.pdb
+C:\Users\morcs\Desktop\Mappák\Tábla\TáblaAsztali\Tabla\Tabla\obj\Debug\Tabla.MainAdmin.resources
+C:\Users\morcs\Desktop\Mappák\Tábla\TáblaAsztali\Tabla\Tabla\obj\Debug\Tabla.AddStudentForm.resources
+C:\Users\morcs\Desktop\Mappák\Tábla\TáblaAsztali\Tabla\Tabla\obj\Debug\Tabla.UpdateStudentForm.resources
+C:\Users\morcs\Desktop\Mappák\Tábla\TáblaAsztali\Tabla\Tabla\obj\Debug\Tabla.AddTeacherForm.resources
+C:\Users\morcs\Desktop\Mappák\Tábla\TáblaAsztali\Tabla\Tabla\obj\Debug\Tabla.UpdateTeacherForm.resources
+C:\Users\morcs\Desktop\Mappák\Tábla\TáblaAsztali\Tabla\Tabla\obj\Debug\Tabla.MainTeacher.resources
+C:\Users\morcs\Desktop\Mappák\Tábla\TáblaAsztali\Tabla\Tabla\obj\Debug\Tabla.LoginForm.resources
+C:\Users\morcs\Desktop\Tabla_Vegleges\Asztali alkalmazás\Tabla_fejlesztoi\Tabla\Tabla\bin\Debug\Tabla.exe.config
+C:\Users\morcs\Desktop\Tabla_Vegleges\Asztali alkalmazás\Tabla_fejlesztoi\Tabla\Tabla\bin\Debug\Tabla.exe
+C:\Users\morcs\Desktop\Tabla_Vegleges\Asztali alkalmazás\Tabla_fejlesztoi\Tabla\Tabla\bin\Debug\Tabla.pdb
+C:\Users\morcs\Desktop\Tabla_Vegleges\Asztali alkalmazás\Tabla_fejlesztoi\Tabla\Tabla\bin\Debug\MySql.Data.dll
+C:\Users\morcs\Desktop\Tabla_Vegleges\Asztali alkalmazás\Tabla_fejlesztoi\Tabla\Tabla\bin\Debug\MySql.Data.xml
+C:\Users\morcs\Desktop\Tabla_Vegleges\Asztali alkalmazás\Tabla_fejlesztoi\Tabla\Tabla\obj\Debug\Tabla.csprojAssemblyReference.cache
+C:\Users\morcs\Desktop\Tabla_Vegleges\Asztali alkalmazás\Tabla_fejlesztoi\Tabla\Tabla\obj\Debug\Tabla.AddStudentForm.resources
+C:\Users\morcs\Desktop\Tabla_Vegleges\Asztali alkalmazás\Tabla_fejlesztoi\Tabla\Tabla\obj\Debug\Tabla.AddTeacherForm.resources
+C:\Users\morcs\Desktop\Tabla_Vegleges\Asztali alkalmazás\Tabla_fejlesztoi\Tabla\Tabla\obj\Debug\Tabla.LoginForm.resources
+C:\Users\morcs\Desktop\Tabla_Vegleges\Asztali alkalmazás\Tabla_fejlesztoi\Tabla\Tabla\obj\Debug\Tabla.MainTeacher.resources
+C:\Users\morcs\Desktop\Tabla_Vegleges\Asztali alkalmazás\Tabla_fejlesztoi\Tabla\Tabla\obj\Debug\Tabla.UpdateStudentForm.resources
+C:\Users\morcs\Desktop\Tabla_Vegleges\Asztali alkalmazás\Tabla_fejlesztoi\Tabla\Tabla\obj\Debug\Tabla.MainAdmin.resources
+C:\Users\morcs\Desktop\Tabla_Vegleges\Asztali alkalmazás\Tabla_fejlesztoi\Tabla\Tabla\obj\Debug\Tabla.Properties.Resources.resources
+C:\Users\morcs\Desktop\Tabla_Vegleges\Asztali alkalmazás\Tabla_fejlesztoi\Tabla\Tabla\obj\Debug\Tabla.UpdateTeacherForm.resources
+C:\Users\morcs\Desktop\Tabla_Vegleges\Asztali alkalmazás\Tabla_fejlesztoi\Tabla\Tabla\obj\Debug\Tabla.csproj.GenerateResource.cache
+C:\Users\morcs\Desktop\Tabla_Vegleges\Asztali alkalmazás\Tabla_fejlesztoi\Tabla\Tabla\obj\Debug\Tabla.csproj.CoreCompileInputs.cache
+C:\Users\morcs\Desktop\Tabla_Vegleges\Asztali alkalmazás\Tabla_fejlesztoi\Tabla\Tabla\obj\Debug\Tabla.csproj.CopyComplete
+C:\Users\morcs\Desktop\Tabla_Vegleges\Asztali alkalmazás\Tabla_fejlesztoi\Tabla\Tabla\obj\Debug\Tabla.exe
+C:\Users\morcs\Desktop\Tabla_Vegleges\Asztali alkalmazás\Tabla_fejlesztoi\Tabla\Tabla\obj\Debug\Tabla.pdb

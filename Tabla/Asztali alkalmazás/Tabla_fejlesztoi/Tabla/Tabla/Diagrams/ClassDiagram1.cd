@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Tabla.Model.Diak">
+    <Position X="0.5" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAUAAAACAAgAAAAAEAQAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Model\Diak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tabla.Model.Hianyzas">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAIAAAAAAAAAAAAgAAAAAAAgA=</HashCode>
+      <FileName>Model\Hianyzas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tabla.Model.Jegyek">
+    <Position X="9" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAQAAAAAAAAAAAAAAgAAAAAAAgA=</HashCode>
+      <FileName>Model\Jegyek.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tabla.Model.Osztalyfonok">
+    <Position X="7" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Model\Osztalyfonok.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tabla.Model.Tanar">
+    <Position X="11" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAACAAgAAAAAEAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Model\Tanar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tabla.Model.Tantargyak">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAgAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Model\Tantargyak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

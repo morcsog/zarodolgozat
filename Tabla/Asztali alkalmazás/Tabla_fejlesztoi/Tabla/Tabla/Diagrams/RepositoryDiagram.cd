@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Tabla.Repo.DiakRepository">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEAAAAAQA=</HashCode>
+      <FileName>Repo\DiakRepository.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="hianyzasokList" />
+      <Field Name="jegyekList" />
+      <Field Name="tanarokList" />
+      <Field Name="tantargyakList" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Tabla.Repo.JegyekRepository">
+    <Position X="1.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Repo\JegyekRepository.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="jegyekList" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Tabla.Repo.OsztalyfonokRepository">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Repo\OsztalyfonokRepository.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="tanarokList" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Tabla.Repo.OsztalyokRepository">
+    <Position X="7.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repo\OsztalyokRepository.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="osztalyokList" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Tabla.Repo.TanarRepository">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repo\TanarRepository.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="tanarList" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Tabla.Repo.TantargyakRepository">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repo\TantargyakRepository.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="tantargyakList" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Tabla.Model.Hianyzas" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAIAAAAAAAAAAAAgAAAAAAAgA=</HashCode>
+      <FileName>Model\Hianyzas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tabla.Model.Jegyek" Collapsed="true">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAQAAAAAAAAAAAAAAgAAAAAAAgA=</HashCode>
+      <FileName>Model\Jegyek.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tabla.Model.Tanar" Collapsed="true">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAACAAgAAAAAEAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Model\Tanar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tabla.Model.Tantargyak" Collapsed="true">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAgAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Model\Tantargyak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tabla.Model.Osztalyok" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Model\Osztalyok.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
