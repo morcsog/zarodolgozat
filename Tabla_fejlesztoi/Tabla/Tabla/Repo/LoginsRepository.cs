@@ -113,7 +113,6 @@ namespace Tabla.Repo
             bool successfulLogin = false;            
             string returnValue = "";
             int rendszergazda = -1;
-
             tanarE = true;
             query = "SELECT login.username as felhasznaloNev, login.password as jelszo, login.RendszergazdaE as rendszergazda, login.TanarID as tanarID FROM login WHERE login.username = '" + username + "' AND login.password = '" + pw + "'";
             try
