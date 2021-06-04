@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabla", "Tabla\Tabla.csproj", "{B82E6F24-FD6D-44D8-9691-3BBFF5E8EA4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TablaTests1", "TablaTests1\TablaTests1.csproj", "{041845CE-ED4E-4F59-ADA8-A1416143F78F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B82E6F24-FD6D-44D8-9691-3BBFF5E8EA4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82E6F24-FD6D-44D8-9691-3BBFF5E8EA4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82E6F24-FD6D-44D8-9691-3BBFF5E8EA4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82E6F24-FD6D-44D8-9691-3BBFF5E8EA4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{041845CE-ED4E-4F59-ADA8-A1416143F78F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041845CE-ED4E-4F59-ADA8-A1416143F78F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041845CE-ED4E-4F59-ADA8-A1416143F78F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041845CE-ED4E-4F59-ADA8-A1416143F78F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CEDEBF4-E91C-4F7B-BD2B-6CA2F7495371}
+	EndGlobalSection
+EndGlobal
