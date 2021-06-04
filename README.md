@@ -1,2 +1,0 @@
-# zarodolgozat
-Z
