@@ -1,0 +1,13 @@
+Asztali alkalmazás
+------------------------------------
+Rendszergazda felhasznló: tesztAdminReg
+Rendszergazda jelszó: 123asd
+Tanár felhasználó: testTeacherLogin
+Tanár jelszó: 123asd
+-------------------------------------
+
+Weboldal:
+-------------------------------------
+Diák felhasználó: testStudentLogin888
+Diák jelszó: 123asd
+-------------------------------------
