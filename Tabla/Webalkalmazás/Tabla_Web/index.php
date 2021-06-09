@@ -17,7 +17,6 @@ if (empty($_SESSION['username'])) {
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <!-- Jquery beszúrása -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <!-- Bootsrap beszúrása ismét, nem tudom miért de szükség van rá, így működik megfelelően. -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     <!-- A CSS-ek beszúrása -->
     <link rel="stylesheet" href="CSS/header.css">
